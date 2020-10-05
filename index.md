@@ -1,8 +1,0 @@
-<html>
-  <head>
-    <title>Test Page</title>
-  </head>
-  <body>
-    <p>Test Success</p>
-  </body>
-</html>
