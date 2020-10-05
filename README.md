@@ -1,4 +1,4 @@
-# aurora211.github-io
+# aurora211.github.io
 -------------------------------------------------------------------
 
 This site is Aurora211's first site. This site is created in 2020.
