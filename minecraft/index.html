@@ -40,13 +40,15 @@
 		<script type="text/javascript" src="js/theme-functions.js"></script> 
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<script>
-			alert("下载功能已全部关闭！请进群下载。")；
+			function download(){
+				alert("下载功能已全部关闭！请进群下载。")；
+			}
 			function notavailable(){
 				alert("功能已关闭");
 			}
 		</script>
 	</head>
-	<body>
+	<body onLoad="download()">
 		<div id="main-wrapper">			
 			<!-- BEGIN OF HEADER WRAPPER -->
 			<div id="header-wrapper">    	
