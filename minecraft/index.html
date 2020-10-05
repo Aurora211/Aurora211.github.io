@@ -134,11 +134,7 @@
 							<h4>我的世界服务器</h4>
 							<p>实际上，我已经像上面说的那样打开了一个minecraft服务器。但是它的IP地址不是静态IP地址。因此，您可能需要经常更改客户端中的IP</p>
 							<br/>
-							<h5>当前地址</h5>
-							<h3><font color="#FF0000"><?php echo $_SERVER['SERVER_NAME']; ?></font></h3>
-							<h5>当前端口<font color="#FF00FF">25565</font></h5>
-							<h5>服务器状态</h5>
-							<h5><font color="#FF0000">OFFLINE</font></h5>
+							<a href="https://jq.qq.com/?_wv=1027&k=8qQZYnot" target="_blank" class="button medium blue">加入QQ群聊</a>
 						</div>
 					</div>
 				</div>        
@@ -164,16 +160,5 @@
 			</div>
 			<!-- END OF BOTTOM WRAPPER -->
 		</div>
-		
-		<!-- PHP Code -->
-		<?php
-		$status = include 'php/function.php';
-		if ($status != 1){
-			echo "
-				<script>
-					alert('PHP资源文件无法连接，部分功能可能受限！');
-				</script>";
-		}
-		?>
 	</body>
 </html>
