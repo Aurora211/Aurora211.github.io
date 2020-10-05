@@ -14,12 +14,8 @@ Bilibili: https://space.bilibili.com/57896387
 
 -----Update Log----------------------------------------------------
 
----date---  ---action---  ---detail info---
+You can see the website update log at the following URL.
 
-2020.10.05  Create        Repositories
-
-2020.10.05  Set           Basic website settings
-
-2020.10.05  Upload        Website template
+https://aurora211.github.io/updatelog.html
 
 -------------------------------------------------------------------
